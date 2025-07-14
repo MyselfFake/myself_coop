@@ -2,7 +2,7 @@
 
 > Un jeu mobile 2D en vue isométrique de type **tower defense multijoueur** développé avec **Unity** et **Photon Fusion**.
 
-![Unity](https://img.shields.io/badge/Engine-Unity_2022.3_LTS-blue?logo=unity)
+![Unity](https://img.shields.io/badge/Engine-Unity_6-blue?logo=unity)
 ![Platform](https://img.shields.io/badge/Platform-Android-green?logo=android)
 ![License](https://img.shields.io/badge/License-À_définir-lightgrey)
 ![Status](https://img.shields.io/badge/Status-En_développement-yellow)
@@ -23,7 +23,7 @@
 
 | Outil / Techno         | Usage                          |
 |------------------------|--------------------------------|
-| **Unity 2022.3 LTS**   | Moteur principal (2D isométrique) |
+| **Unity 6**            | Moteur principal (2D isométrique) |
 | **Photon Fusion**      | Multijoueur temps réel         |
 | **C#**                 | Langage principal              |
 | **Git / GitHub**       | Contrôle de version & collaboration |
@@ -61,16 +61,16 @@ Assets/
 ## 📱 Plateforme cible
 
 - **Android** (builds via Unity Android Build Support)
-- Compatible avec d'autres plateformes à terme (PC ? Web ?)
+- Compatible avec d'autres plateformes à terme (iOS ? Web ?)
 
 ---
 
 ## 🤝 Contributeurs
 
-| Nom               | Rôle                   |
+| Nom              | Rôle                   |
 |------------------|------------------------|
-| Max M.            | Développement, game design |
-| …                | (à ajouter)            |
+| Myself Fake      | (à ajouter)            |
+| Myself Real      | (à ajouter)            |
 
 ---
 
